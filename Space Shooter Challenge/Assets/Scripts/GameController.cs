@@ -37,7 +37,7 @@ public class GameController : MonoBehaviour
         }
     
 
-    gameOver = false;
+        gameOver = false;
         restart = false;
         restartText.text = "";
         winText.text = "";
